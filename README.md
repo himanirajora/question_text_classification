@@ -14,6 +14,6 @@ question_text_classification is built using Python 3.5.2. You need to install [i
 
 NOTE: The spacy installation doesn’t automatically download the English model. Need to run following command over terminal
 
-	python -m spacy download en
+	python3 -m spacy download en
 
 NOTE: Keep the training dataset in same folder as this script
